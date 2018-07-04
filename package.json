@@ -1,0 +1,23 @@
+{
+  "name": "anydoor3",
+  "version": "1.0.0",
+  "description": "node study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangmeiming/anydoor3.git"
+  },
+  "author": "zhangmeiming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangmeiming/anydoor3/issues"
+  },
+  "homepage": "https://github.com/zhangmeiming/anydoor3#readme",
+  "dependencies": {
+    "eslint": "^5.0.1",
+    "vue-cli": "^2.9.6"
+  }
+}
